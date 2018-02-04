@@ -5,7 +5,7 @@ I want to try to input in different line at same time.
 2
  .
 
-1 どうすればいったいうまく。。。きもちりあるたい
+1 どうすればいったいうまく。。。きもちリアルタイム感
 Y
 H2重送信はされてなさそう
 https://github.com/beepro/beepro-dancer-test/blob/master/takahirofujii.txt
