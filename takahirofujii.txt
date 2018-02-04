@@ -8,4 +8,5 @@ takahirofujii
 あれなんかちょっとだけおかしいな
 いや、いけてるか
 どうですか？
-2重送信はさ
+2重送信はされてなさそう
+https://github.com/beepro/beepro-dancer-test/blob/master/takahirofujii.txt
