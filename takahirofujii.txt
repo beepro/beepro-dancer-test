@@ -1,4 +1,8 @@
 ABCDEFG
+Yes.
+I:vv:
 
+I
+Y
 H2重送信はされてなさそう
 https://github.com/beepro/beepro-dancer-test/blob/master/takahirofujii.txt
