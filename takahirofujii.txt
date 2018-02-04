@@ -1,6 +1,11 @@
 I want to try to input in different line at same time.
-s
-I
+1.
+2.  .
+
+2
+ .
+
+1
 Y
 H2重送信はされてなさそう
 https://github.com/beepro/beepro-dancer-test/blob/master/takahirofujii.txt
