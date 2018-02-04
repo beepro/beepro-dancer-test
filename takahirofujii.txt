@@ -5,7 +5,7 @@ I want to try to input in different line at same time.
 2
  .
 
-1あああ
+1 どうすれば
 Y
 H2重送信はされてなさそう
 https://github.com/beepro/beepro-dancer-test/blob/master/takahirofujii.txt
