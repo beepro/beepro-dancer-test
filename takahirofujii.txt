@@ -3,7 +3,6 @@ I want to try to input in different line at same time.
 2. this is yours..sruoy si siht .
 f
 2a
- .f
 {"type":"change","path":"takahirofujii.txt","contents":null,"change":{"text":"a","from":{"row":4,"col":1},"to":{"row":4,"col":1}}}
 1 どうすればいったいうまく。。。きもちリアルタイム感がでたのはいいこと
 Y
